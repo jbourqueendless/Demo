@@ -1,3 +1,4 @@
-res://game_singleplayer.tscn
+res://game_splitscreen.tscn
 res://level/tileset.tres
 res://gui/theme.tres
+res://enemy/enemy.gd
