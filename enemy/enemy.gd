@@ -1,5 +1,5 @@
 class_name Enemy extends CharacterBody2D
-##blahblahblahwe45uyr6etuer56u6t5r4uit67rui54
+##blah
 
 enum State {
 	WALKING,
